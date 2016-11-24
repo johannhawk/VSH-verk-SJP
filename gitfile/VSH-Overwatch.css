@@ -1,8 +1,22 @@
-
-
-
-
-
+/*Bakgrunnur*/
+body {
+    background: linear-gradient(black,#331a00,orange)
+}
+/*Mynda staðsetning*/
+.myndmid{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+/*font*/
+.fontb{
+    font-family: 'Bigshot One', cursive;
+}
+.fontc{
+    font-family: 'Comfortaa', cursive;
+}
+.fontr{
+    font-family: 'Ranga', cursive;
+}
 
 
 
