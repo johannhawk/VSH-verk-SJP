@@ -1,4 +1,4 @@
-ul {
+ul{
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -31,9 +31,14 @@ li a:hover:not(.active) {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-	background-color:green;
+	background-color: green;
 }
 .rammi {
-	margin-left:250px;
-	margin-right:250px;
+	margin-left: 250px;
+	margin-right: 250px;
+	background-color: white;
+}
+}
+.body{
+	background-color: #737373;
 }
