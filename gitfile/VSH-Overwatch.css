@@ -1,5 +1,5 @@
 /*Bakgrunnur*/
-body {
+.background{
     background: linear-gradient(black,#331a00,orange)
 }
 /*Mynda staðsetning*/
@@ -7,12 +7,19 @@ body {
     margin-left: 10%;
     margin-right: 10%;
 }
+/*links*/
+.tac{
+    text-align: center;
+}
+
 /*font*/
 .fontb{
     font-family: 'Bigshot One', cursive;
+    color:#E6E6E6;
 }
 .fontc{
     font-family: 'Comfortaa', cursive;
+    color:#a36c13;
 }
 .fontr{
     font-family: 'Ranga', cursive;
