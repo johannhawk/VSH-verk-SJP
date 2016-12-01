@@ -1,3 +1,6 @@
+.html {
+	
+}
 ul{
     list-style-type: none;
     margin: 0;
@@ -41,7 +44,8 @@ li a:hover:not(.active) {
 
 .inngangur {
 	display: inline-block;
-	width: 60%
+	width: 60%;
+	font-size: 18px;
 }
 .innihald {
 	border: solid 1px black;
@@ -49,18 +53,24 @@ li a:hover:not(.active) {
 	float: right;
 	background-color:#f2f2f2;
 	margin-right: 30px;
+	font-size: 18px;
 }
 .um {
 	display: inline-block;
 	width: 60%;
+	font-size: 18px;
+	font-family: Arial, Helvatica, Sans-serif;
 }
 .mynd {
 	display: inline-block;
 	float: right;
 	margin-top:-10px;
 	margin-right:120px;
+	font-family: Arial, Helvatica, Sans-serif;
 }
 .sagan {
+	font-size: 18px;
+	font-family: Arial, Helvatica, Sans-serif;
 }
 .sagan_2 {
 	width:50%;
