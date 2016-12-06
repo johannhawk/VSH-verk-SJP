@@ -8,3 +8,7 @@ spilað ásamt 64 öðrum leikmönnum, sem eru skiptir í 2, 32 manna lið. Leik
 update sem gefa ný möpp eða til þess að laga leikinn. Serían breytist með hverjum leik eftir hvernig seinasti leikurinn
 hefur staðið sig og hvað spilendurnir segja.
 Leikurinn kom út árið 2016 og er 15 í seríunni, Battlefield 1 er hannaður af Electronics Arts og er gefin út af DICE, sem er dótturfyrirtæki Electronics Arts.
+
+##Counter-Strike: Global Offencive
+Counter Strike: Global Offensive (CS:GO) er fyrstu persónu skotleikur. Hann kom út þann 21. ágúst 2012 og er mikið spilaður enn í dag. Leikurinn er gerður af Valve, sem einnig bjuggu til Team fortress 2 og Half-Life leikina. Þinn meðalmaður í CS:GO myndi vera rússi á sínum unglingsárum sem verður mjög pirraður mjög léttilega. Valve hefur ekkert talað um að gera nýjan counter-strike leik en eru enn að gera nýjar uppfærslur í CS:GO.
+þessi leikur er 4 leikurinn í Counter-Strike seríunni að koma út.
