@@ -7,4 +7,4 @@ hönnuðir leiksins bjuggu til. Annars er líka hægt að spila Multiplayer (s.s
 spilað ásamt 64 öðrum leikmönnum, sem eru skiptir í 2, 32 manna lið. Leikurinn sjálfur breytist ekki mikið nema fyrir
 update sem gefa ný möpp eða til þess að laga leikinn. Serían breytist með hverjum leik eftir hvernig seinasti leikurinn
 hefur staðið sig og hvað spilendurnir segja.
-Leikurinn kom út árið 2016 og er -- í seríunni, Battlefield 1 er hannaður af Electronics Arts og er gefin út af DICE, sem er dótturfyrirtæki Electronics Arts.
+Leikurinn kom út árið 2016 og er 15 í seríunni, Battlefield 1 er hannaður af Electronics Arts og er gefin út af DICE, sem er dótturfyrirtæki Electronics Arts.
