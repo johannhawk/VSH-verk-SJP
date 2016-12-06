@@ -9,6 +9,9 @@ update sem gefa ný möpp eða til þess að laga leikinn. Serían breytist með
 hefur staðið sig og hvað spilendurnir segja.
 Leikurinn kom út árið 2016 og er 15 í seríunni, Battlefield 1 er hannaður af Electronics Arts og er gefin út af DICE, sem er dótturfyrirtæki Electronics Arts.
 
+##Counter-strike: Global Offencive
+Counter Strike: Global Offensive (CS:GO) er fyrstu persónu skotleikur. Hann kom út þann 21. ágúst 2012 og er mikið spilaður enn í dag. Leikurinn er gerður af Valve, sem einnig bjuggu til Team fortress 2 og Half-Life leikina. Þinn meðalmaður í CS:GO myndi vera rússi á sínum unglingsárum sem verður mjög pirraður mjög léttilega. Valve hefur ekkert talað um að gera nýjan counter-strike leik en eru enn að gera nýjar uppfærslur í CS:GO.
+CS:GO er fjórði leikurinn í Counter-Strike seríunni að koma út.
 
 ##Overwatch
 Overwatch var opinberlega gefin út 24 maí 2016 á Windows, Xbox One og Playstation 4. Það er engin augljós aldurs eða kyn hópur sem spilar leikin.
